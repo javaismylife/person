@@ -1,0 +1,18 @@
+{
+    "db": {
+        "name": "db",
+        "connector": "memory"
+      },
+    "personds": {
+    "name": "personds",
+    "connector": "postgresql",
+    "host": "144.202.78.113",
+    "port": 5432,
+    "user": "person",
+    "password": ",bF77aB@",
+    "database": "person"
+  }
+}
+
+
+  
